@@ -1,3 +1,15 @@
 
 cred_file
 *.txt
+
+cred_file
+cred_file*
+*.txt
+
+cred_file
+cred_file*
+*.txt
+
+cred_file
+cred_file*
+*.txt
